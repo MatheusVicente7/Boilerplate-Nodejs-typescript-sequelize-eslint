@@ -1,0 +1,23 @@
+{
+  "cSpell.enableFiletypes": ["jsx-tags"],
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false,
+  "eslint.workingDirectories": [
+    "./BackEnd",
+    "./FrontEnd",
+    "../FrontEnd",
+    "../BackEnd",
+    ".",
+    "../",
+    "*"
+  ]
+}

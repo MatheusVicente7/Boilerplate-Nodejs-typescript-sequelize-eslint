@@ -10,7 +10,6 @@
     "ecmaVersion": 12
   },
   "plugins": ["@typescript-eslint"],
-  "root": true,
   "rules": {
     "arrow-spacing": ["warn", { "before": true, "after": true }],
     "brace-style": ["error", "stroustrup", { "allowSingleLine": true }],
