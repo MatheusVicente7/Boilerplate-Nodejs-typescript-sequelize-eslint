@@ -10,13 +10,12 @@
 
 ## To-Do
 
-**OAuth 2.0 Authentication**
-
+- **OAuth 2.0 Authentication**
 - Flash notifications
 - Node.js clusters support
 - Email Support
 - Change Password
 - Forgot Password
 - Reset Password
-  Delete Account
+- Delete Account
 - CSRF protection
