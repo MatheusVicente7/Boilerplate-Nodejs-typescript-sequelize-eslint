@@ -1,6 +1,6 @@
 # Boilerplate-Nodejs-typescript-sequelize-eslint
- Features
---------
+
+## Features
 
 - **JWT Auth** using Email and Password
 - Permissions
@@ -8,9 +8,10 @@
 - Prettier
 - Typescript
 
- To-Do
---------
+## To-Do
+
 **OAuth 2.0 Authentication**
+
 - Flash notifications
 - Node.js clusters support
 - Email Support
