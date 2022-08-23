@@ -19,8 +19,12 @@
   },
   "homepage": "https://github.com/MatheusVicente7/Boilerplate-Nodejs-typescript-sequelize-eslint#readme",
   "dependencies": {
+    "@types/node": "^18.7.10",
+    "dotenv": "^16.0.1",
     "helmet": "^5.1.1",
+    "mysql2": "^2.3.3",
     "nodemon": "^2.0.19",
+    "sequelize": "^7.0.0-alpha.10",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
@@ -28,8 +32,8 @@
     "@typescript-eslint/parser": "^5.34.0",
     "dotenv-cli": "^6.0.0",
     "eslint": "^8.22.0",
-    "sequelize-cli": "^6.4.1",
     "prettier": "^2.7.1",
+    "sequelize-cli": "^6.4.1",
     "typescript": "^4.7.4"
   }
 }
