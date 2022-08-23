@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate-nodejs-typescript-sequelize-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"dev": "npx nodemon ./index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusVicente7/Boilerplate-Nodejs-typescript-sequelize-eslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusVicente7/Boilerplate-Nodejs-typescript-sequelize-eslint/issues"
+  },
+  "homepage": "https://github.com/MatheusVicente7/Boilerplate-Nodejs-typescript-sequelize-eslint#readme",
+  "dependencies": {
+    "helmet": "^5.1.1",
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1"
+  }
+}
