@@ -2,7 +2,10 @@
   "name": "boilerplate-nodejs-typescript-sequelize-eslint",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
+  "bin": {
+    "create-boilerplate-nodejs": "./bin/generate-app.js"
+  },
   "scripts": {
     "dev": "npx nodemon ./index.ts",
     "lint": "eslint src --ext .js",
