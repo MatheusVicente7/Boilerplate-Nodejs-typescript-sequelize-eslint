@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-To get started with `create-boilerplate-nodejs app-name`, run any of the following three commands, give the app name(ak:Folder name) and it will install automatically!
+To get started with `create-boilerplate-nodejs app-name`, run any of the following three commands, give the app name(AKA:Folder name) and it will install automatically!
 
 ### npm
 
